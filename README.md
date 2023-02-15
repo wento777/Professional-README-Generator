@@ -110,7 +110,7 @@ Because this application won’t be deployed, i will also need to provide a link
   
   # Project recording link:
 
-  * https://watch.screencastify.com/v/zRAYE9cHgHg6jG7nt1yP  
+  * https://drive.google.com/file/d/1XR9OuwMjlicjPh7_xiVoP8I7HRYiAVyQ/view   
   
   # Sample of README file link:
 
