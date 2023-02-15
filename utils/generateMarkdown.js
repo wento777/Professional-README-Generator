@@ -7,7 +7,7 @@ function renderLicenseBadge(license) {
     return ``;
   }
 
-  let result = licensesDetails.filter(licenseDetail => licenseDetail.name == license);
+  let result = licenseDetails.filter(licenseDetail => licenseDetail.name == license);
   return result[0].badge;
 }
 
@@ -19,7 +19,7 @@ function renderLicenseLink(license) {
     return ``;
 
 }
-let result = licensesDetails.filter(licenseDetail => licenseDetail.name == license);;
+let result = licenseDetails.filter(licenseDetail => licenseDetail.name == license);;
   return result[0].link;
 
 }
