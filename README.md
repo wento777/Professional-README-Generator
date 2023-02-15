@@ -106,7 +106,7 @@ Because this application won’t be deployed, i will also need to provide a link
 
   # This project has been deployed to GitHub, here is the link:
 
-  * 
+  * https://github.com/wento777/Professional-README-Generator 
   
   # Project recording link:
 
